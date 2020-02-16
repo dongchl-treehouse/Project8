@@ -10,7 +10,7 @@
     "operatorsAliases": false
   },
   "production": {
-    "storage":"production.db",
+    "storage":"library.db",
     "dialect": "sqlite",
     "operatorsAliases": false
   }
